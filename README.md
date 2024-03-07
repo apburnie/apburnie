@@ -14,6 +14,9 @@ My USP is that I have worked with a vast range of different marketing requiremen
     - https://github.com/apburnie/LindenmayerSVGDrawTool
     - https://lindenmayer.netlify.app/
 
+* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites
+    - https://github.com/apburnie/html_compile 
+
 #### React
 
 * The Sui Explorer at Mysten Labs
