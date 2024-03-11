@@ -6,16 +6,17 @@ Currently I am pushing the bleeding edge of what can be done in the frontend usi
 
 My USP is that I have worked with a vast range of different marketing requirements and different backend requirements from small companies to large, and in each case the website I have created has been used to raise millions of US Dollars in funding.
 
-### Portfolio of Publicly Accessible Codebases
+### Portfolio
 
 #### Rust
+
+* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites
+    - https://github.com/apburnie/html_compile
+    - https://crates.io/crates/html_compile
 
 * An SVG draw tool that can be used to generate self-similar fractals in an SVG format
     - https://github.com/apburnie/LindenmayerSVGDrawTool
     - https://lindenmayer.netlify.app/
-
-* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites
-    - https://github.com/apburnie/html_compile 
 
 #### React
 
@@ -30,7 +31,8 @@ My USP is that I have worked with a vast range of different marketing requiremen
      - https://github.com/apburnie/ocean-builder
  
 #### Svelte
-
+* WAGMI Advisers
+    - https://wagmiadvisers.xyz/
 * Personal website
     - https://github.com/apburnie/personal-website
     - https://apburnie.netlify.app/
