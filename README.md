@@ -31,8 +31,8 @@ My USP is that I have worked with a vast range of different marketing requiremen
      - https://github.com/apburnie/ocean-builder
  
 #### Svelte
-* WAGMI Advisers
+* WAGMI Advisers Website
     - https://wagmiadvisers.xyz/
-* Personal website
+* Personal Website
     - https://github.com/apburnie/personal-website
     - https://apburnie.netlify.app/
