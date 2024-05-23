@@ -21,7 +21,7 @@ My USP is that I have worked with a vast range of different marketing requiremen
 #### React
 
 * The Sui Explorer at Mysten Labs
-    - https://github.com/MystenLabs/sui/tree/devnet-0.20.0/apps/explorer
+    - https://github.com/MystenLabs/sui/tree/devnet-0.21.0/apps/explorer
     - https://suiexplorer.com/
 * Contributor to Facebook's create-react-app codebase, which was included as part of the update from 5.0.0 to 5.0.1
     - https://github.com/facebook/create-react-app/releases
