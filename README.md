@@ -1,10 +1,10 @@
 ### About
 
-I'm Andrew Burnie, a specialist in building and designing User Interfaces (UIs), websites and Progressive Web Applications (PWAs) which transform the value of companies. Frontend technologies I use include JavaScript, TypeScript, React, Vue, Svelte, HTML, CSS, D3.js and ethers.js. Backend technologies I use include Rust, Node.js and Python. These UIs interact with a variety of backend infrastructures which include SQL and NoSQL databases, and REST, RPC and GraphQL APIs. I also design websites and logos using Figma, GIMP and Inkscape. 
+My websites have raised over USD 310 million during the last 3 years. 
 
-Currently I am pushing the bleeding edge of what can be done in the frontend using Rust to create more secure, lower-latency websites.
+My websites are secure, responsive, low-latency websites delivered under tight timelines around your needs. 
 
-My USP is that I have worked with a vast range of different marketing requirements and different backend requirements from small companies to large, and in each case the website I have created has been used to raise millions of US Dollars in funding.
+Below is an accessible list of examples of my work: 
 
 ### Portfolio
 
@@ -29,7 +29,7 @@ My USP is that I have worked with a vast range of different marketing requiremen
 
 #### Rust
 
-* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites. This has now had over 1,600 downloads and 5 stars on GitHub
+* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites. This has now had over 1,800 downloads and 5 stars on GitHub
     - https://github.com/apburnie/html_compile
     - https://crates.io/crates/html_compile
 
