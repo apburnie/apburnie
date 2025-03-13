@@ -13,6 +13,8 @@ Below is an accessible list of examples of my work:
 * The Sui Explorer at Mysten Labs
     - https://github.com/MystenLabs/sui/tree/devnet-0.21.0/apps/explorer
     - [https://suiscan.xyz](https://suiscan.xyz/mainnet/home)
+* Hyve Labs website
+    - https://www.hyve.gg
 * Contributor to Facebook's create-react-app codebase, which was included as part of the update from 5.0.0 to 5.0.1
     - https://github.com/facebook/create-react-app/releases
 * React version of personal website
