@@ -31,7 +31,7 @@ Below is an accessible list of examples of my work:
 
 #### Rust
 
-* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites. This has now had over 1,800 downloads and 5 stars on GitHub
+* A tool for converting Rust structs into web components that can be inserted into a HTML file for the building of static websites. This has now had over 3,300 downloads and 5 stars on GitHub
     - https://github.com/apburnie/html_compile
     - https://crates.io/crates/html_compile
 
