@@ -19,15 +19,22 @@ Below is an accessible list of examples of my work:
     - https://github.com/facebook/create-react-app/releases
 * React version of personal website
      - https://github.com/apburnie/personal-website/tree/react-astro-version
-* The Ocean Builder App which shows how WebGL can be used with React to create 3D immersive experiences
-     - https://github.com/apburnie/ocean-builder
  
 #### Svelte
+
 * WAGMI Advisers Website. I designed and built this website and created the WAGMI Advisers logo
     - https://wagmiadvisers.xyz/
 * Personal Website
     - https://github.com/apburnie/personal-website
     - https://apburnie.netlify.app/
+
+
+#### three.js
+
+* The Ocean Builder App which shows how WebGL can be used with React to create 3D immersive experiences
+     - https://github.com/apburnie/ocean-builder
+* Also used for the 3D animations on my personal website:
+  - https://apburnie.netlify.app/
 
 #### Rust
 
