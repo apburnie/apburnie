@@ -1,8 +1,8 @@
 ### About
 
-My websites have raised over USD 310 million during the last 3 years. 
+I design, implement and maintain fast, cybersecure, scalable frontends that deliver the UI / UX of entirely new classes of product. These frontends are built around modular and extensible design systems. I am also a specialist in AI-powered innovation as well as finding and fixing AI errors and hallucinations.
 
-My websites are secure, responsive, low-latency websites delivered under tight timelines around your needs. 
+The AI, SaaS, FinTech, cryptoasset and DeFi companies I've worked with have raised over USD 310 million during the last 3 years, and the interfaces I've built have safely handled millions in US Dollar transactions.
 
 Below is an accessible list of examples of my work: 
 
