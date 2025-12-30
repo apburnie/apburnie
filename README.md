@@ -1,8 +1,8 @@
 ### About
 
-I design, implement and maintain fast, cybersecure, scalable frontends that deliver the UI / UX of entirely new classes of product. These frontends are built around modular and extensible design systems. I am also a specialist in AI-powered innovation as well as finding and fixing AI errors and hallucinations.
+I am a Zero-to-One Product Engineer with a PhD in AI applications and a track record of building mission-critical systems. From architecting modular design systems to debugging LLM hallucinations, I bridge the gap between complex data and intuitive user experiences.
 
-The AI, SaaS, FinTech, cryptoasset and DeFi companies I've worked with have raised over USD 310 million during the last 3 years, and the interfaces I've built have safely handled millions in US Dollar transactions.
+I specialize in high-stakes environments — AI, FinTech, DeFi, and RWA — where security and scalability are non-negotiable. My work has supported companies through $310M+ in funding rounds and safely processed millions in transactions.
 
 Below is an accessible list of examples of my work: 
 
