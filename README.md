@@ -1,8 +1,6 @@
 ### About
 
-I am a Zero-to-One Product Engineer with a PhD in AI applications and a track record of building mission-critical systems. From architecting modular design systems to debugging LLM hallucinations, I bridge the gap between complex data and intuitive user experiences.
-
-I specialize in high-stakes environments — AI, FinTech, DeFi, and RWA — where security and scalability are non-negotiable. My work has supported companies through $310M+ in funding rounds and safely processed millions in transactions.
+I am a Product Engineer with a PhD in AI applications and a track record of building mission-critical systems. These websites bridge the gap between complex digital technologies (such as AI LLMs and Web3 blockchains) and intuitive user experiences. My work has supported companies through USD 310M+ in funding rounds and safely processed over USD 1 billion in transactions.
 
 Below is an accessible list of examples of my work: 
 
