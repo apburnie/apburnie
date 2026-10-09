@@ -1,6 +1,8 @@
 ### About
 
-I am a Product Engineer with a PhD in AI applications and a track record of building mission-critical systems. These websites bridge the gap between complex digital technologies (such as AI LLMs and Web3 blockchains) and intuitive user experiences. My work has supported companies through USD 310M+ in funding rounds and safely processed over USD 1 billion in transactions.
+I am the CEO of AskGaius which is a next generation AI infrastructure company, providing a portable AI stored on a plug in and play device that works offline and does not send data to a server either locally or to the cloud.
+
+I have a PhD in AI applications and a track record of building mission-critical systems. These websites bridge the gap between complex digital technologies (such as AI LLMs and Web3 blockchains) and intuitive user experiences. My work has supported companies through USD 310M+ in funding rounds and safely processed over USD 1 billion in transactions.
 
 Below is an accessible list of examples of my work: 
 
